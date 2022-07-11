@@ -11,7 +11,7 @@ import { View, Text, StyleSheet } from 'react-native'
 const App = () => {
   return (
     <View style={styles.main_container}>
-      <Text>Github Actions</Text>
+      <Text> Performing Github Actions</Text>
     </View>
   )
 }
